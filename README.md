@@ -1,10 +1,5 @@
 # Habit-Tracker
 
-Here’s a sample README file for your Habit Tracker application:
-
----
-
-# Habit Tracker
 
 Habit Tracker is a mobile application designed to help users track and maintain their daily habits. This application is built using Flutter and leverages Hive for local storage, Provider for state management, and an animated splash screen for an engaging user experience.
 
@@ -60,6 +55,21 @@ When you launch the application, you will be greeted with an animated splash scr
 - Marking habits as completed
 - Viewing habit history
 - Customizing the app theme
+
+## Screenshots
+
+- Light Theme
+  ![light mode](https://github.com/AhsanASiddiqui/Habit-Tracker/assets/106618861/e42db0b1-7684-428b-91ee-f9dcacf44732)
+
+- Dark Theme
+  ![dark mode](https://github.com/AhsanASiddiqui/Habit-Tracker/assets/106618861/c2d7f167-f3e5-4d4a-85b4-3b3ee686db21)
+
+- New Skills
+  ![add new](https://github.com/AhsanASiddiqui/Habit-Tracker/assets/106618861/72773dc8-9e06-4a68-9cb6-8cc85cf3d5d9)
+
+- Edit
+- ![edit](https://github.com/AhsanASiddiqui/Habit-Tracker/assets/106618861/72a71b9a-b541-43eb-a03f-3bbb7b0125f8)
+
 
 Please ensure that your code adheres to the existing code style and includes appropriate tests.
 
